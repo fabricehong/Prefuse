@@ -57,7 +57,7 @@ zip file. The "prefuse" project should then appear in the area below.
 Now just click the "Finish" button to import the project and build it.
 Once prefuse has been loaded as a project within Eclipse, you
 can then run various demos directly from within Eclipse by right-clicking the
-class file for a demo (e.g., demos/prefuse.demos.GraphView.java) and
+class file for a demo (e.g., demos/GraphView.java) and
 selecting "Run >> Java Application" from the menu.
 
 --MORE--
