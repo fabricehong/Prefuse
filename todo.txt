@@ -1,2 +1,3 @@
 - the test MySQLConnectionTest is ignored
+- the test test.prefuse.data.TreeTest is ignored
 src/main/java/prefuse/demos and src/main/resources belong to src/demo/....

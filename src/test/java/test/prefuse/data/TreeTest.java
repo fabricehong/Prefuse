@@ -9,6 +9,7 @@ import javax.swing.JFrame;
 import javax.swing.JScrollPane;
 
 import junit.framework.TestCase;
+import org.junit.Ignore;
 import prefuse.data.Edge;
 import prefuse.data.Node;
 import prefuse.data.Tree;
@@ -19,6 +20,7 @@ import prefuse.demos.TreeMap;
 import prefuse.util.GraphLib;
 import prefuse.util.ui.JPrefuseTable;
 
+@Ignore
 public class TreeTest extends TestCase {
 
     public static final String TREE_CHI = "/chi-ontology.xml.gz";
